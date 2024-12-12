@@ -16,4 +16,3 @@ Here are some ideas to get you started:
 -->
 
 ![image](https://github.com/user-attachments/assets/8766b3b5-a500-44d2-902b-28d497cef54f)
-![image](https://github.com/user-attachments/assets/a60f1f01-d361-4f15-8a39-a35d17411dfb)
