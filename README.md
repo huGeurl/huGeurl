@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![alt text](https://unity3d-france.com/unity/assets/DuelingBladesThumb.jpg)
-![alt text](https://unity3d-france.com/unity/assets/AddForceThumb.jpg)
+![image](https://github.com/user-attachments/assets/8766b3b5-a500-44d2-902b-28d497cef54f)
+![image](https://github.com/user-attachments/assets/a60f1f01-d361-4f15-8a39-a35d17411dfb)
