@@ -15,10 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+🔭 I’m currently working on [Project AVONDRA](https://github.com/huGeurl/Project-AVONDRA)
+
 ![image](https://github.com/user-attachments/assets/8766b3b5-a500-44d2-902b-28d497cef54f)
 
 🌱 I’m currently learning:
-* [Unity](unity.com) | [SMILE GAME BUILDER](smileboom.com) | [GameMaker](gamemaker.io)
-* [PlayMaker](hutonggames.com) | [GML (GameMaker Language)](gamemaker.io)
-* [PurrNet](purrnet.dev) | [Alteruna](alteruna.com) | [Photon Engine](photonengine.com)
-* [CLIP STUDIO](clipstudio.net) | [Blender](blender.org)
+* [Unity](https://unity.com) | [SMILE GAME BUILDER](https://smileboom.com) | [GameMaker](https://gamemaker.io)
+* [PlayMaker](https://hutonggames.com) | [GML (GameMaker Language)](https://gamemaker.io)
+* [PurrNet](https://purrnet.dev) | [Alteruna](https://alteruna.com) | [Photon Engine](https://photonengine.com)
+* [CLIP STUDIO](https://clipstudio.net) | [Blender](https://blender.org)
